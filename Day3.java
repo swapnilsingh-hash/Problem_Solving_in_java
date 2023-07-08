@@ -1,0 +1,12 @@
+public class Day3 {
+
+    public static void main(String args[]){
+
+        int a=10;
+        int b=20;
+        int sum = a+b;
+
+        System.out.println("Total two numbers sum : " + sum);
+    }
+    
+}
